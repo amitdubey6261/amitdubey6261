@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web-GL**
 
-- 👨‍💻 All of my projects are available at [http://www.amitatstarship6261.com](http://www.amitatstarship6261.com)
+- 👨‍💻 All of my projects are available at [https://amitdubeyport.netlify.app/](https://amitdubeyport.netlify.app/)
 
 - 💬 Ask me about **MERN , Django , ReactNative , ThreeJS , TenserflowJS**
 
