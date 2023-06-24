@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
 <h3 align="center">A passionate Full Stack/GL developer from India</h3>
 
-- 🔭 I’m currently working on **Delta To Alpha First Aid Sir**
+- 🔭 I’m currently working on **Ludo**
 
 - 🌱 I’m currently learning **Machine Learning**
 
