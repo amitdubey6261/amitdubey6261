@@ -1,4 +1,4 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg)]
+[![MasterHead]([https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg](https://media.tenor.com/flADg3jrozEAAAAS/loop-warp.gif))]
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
 <h3 align="center">A passionate Full Stack/GL developer from India</h3>
 
