@@ -5,6 +5,45 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitdubey6261&theme=algolia" alt="amitdubey6261" /></p>
 
+## :zap: Skills
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
+  </a>
+  <a href="https://helm.sh/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+  </a>
+   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+  </a>
+    <a href="https://www.jenkins.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
+  </a>
+  <a href="www.tensorflow.org" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/tf.png" height="70" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/pyt2.png" height="70" />
+  </a>
+  <a href="https://www.kubeflow.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="70" />
+  </a>
+</p>
+
 #### Github Stats
 <p align='center'><img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
