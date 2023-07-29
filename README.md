@@ -24,7 +24,7 @@
     <img src="https://download.blender.org/branding/blender_logo_socket.png"  height="90" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" width="90" />
+    <img src="https://w7.pngwing.com/pngs/493/735/png-transparent-node-js-javascript-express-js-mongodb-github-github-angle-text-logo-thumbnail.png" width="90" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YTd-yHB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bd20dz2e1eoshz4pza2.gif"  height="75" />
