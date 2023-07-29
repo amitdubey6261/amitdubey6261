@@ -31,7 +31,7 @@
   </a>
   </a>
     <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cloudinary_logo.svg/2560px-Cloudinary_logo.svg.png" height="90" />
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--DoTGqaN0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4yamwtrb4ej8zajy41sl.png" height="90" />
   </a>
   <a href="www.tensorflow.org" target="_blank" >
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/tf.png" height="70" />
