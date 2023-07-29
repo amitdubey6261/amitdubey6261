@@ -1,6 +1,7 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_1280.jpg)]
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
 <h3 align="center">Full Stack Creative Frontend Developer</h3>
+
+![MasterHead](https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_1280.jpg)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitdubey6261&theme=algolia" alt="amitdubey6261" /></p>
 
