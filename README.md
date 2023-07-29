@@ -41,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/pyt2.png" height="70" />
   </a>
   <a href="https://www.kubeflow.org/" target="_blank" >
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRep8GcbVx20Eq7c_AtJoHtbah3uuK-BsLHVG_y4evNGJKyG37VEdGb6E6gPu350T4vw&usqp=CAU" height="70" />
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/e69ab290704783.5e39e8ad5f86f.gif" height="70" />
   </a>
 </p>
 
