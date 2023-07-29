@@ -3,7 +3,7 @@
 
 ![MasterHead](https://cdn.pixabay.com/photo/2016/04/16/21/49/deer-1333814_1280.jpg)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitdubey6261&theme=algolia" alt="amitdubey6261" /></p>
+<p align="center"><img align="center" src="https://media1.giphy.com/media/4GWgNkOcQeubVjoc5P/giphy.gif?cid=ecf05e4783di016fd12ug1xn9lmngotwmt08lr21tz0iffo0&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="amitdubey6261" /></p>
 
 ## :zap: Skills
 
