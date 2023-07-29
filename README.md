@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
-<h3 align="center">Full Stack Creative Frontend Developer</h3>
+
+
+🚀 Welcome to My GitHub Profile 🚀
+
+About Me
+Hey there! 👋 I'm a Full Stack Creative Frontend Developer with a passion for cutting-edge web technologies and real-time 3D game development. With over 3 years of experience in the tech industry, I've been busy crafting immersive experiences and pushing the boundaries of what's possible on the web.
+
+
 
 ## :zap: Skills
 
