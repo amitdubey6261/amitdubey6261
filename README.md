@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
 
-## :🧙: About_Amit
+## 🧙 About_Amit
 Hey there! 👋 I'm a Full Stack Creative Frontend Developer 🌐 with a passion for cutting-edge web technologies and real-time 3D game development 🕹️. With over 1 years of experience in the tech industry 🧙 , I've been busy crafting immersive experiences and pushing the boundaries of what's possible on the web 🛠️.
 
 What Drives Me
