@@ -15,13 +15,13 @@
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="90" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://download.blender.org/branding/blender_logo_socket.png"  height="65" />
+    <img src="https://download.blender.org/branding/blender_logo_socket.png"  height="90" />
   </a>
   <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" width="120" />
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg" width="90" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YTd-yHB1--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0bd20dz2e1eoshz4pza2.gif"  height="75" />
