@@ -7,5 +7,6 @@
 
 #### Github Stats
 <p align='center'><img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitdubey6261&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<p align='center'><img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitdubey6261&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
