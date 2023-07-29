@@ -9,10 +9,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/warship6261) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-dubey-2339b6204) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PieceSuitable4632) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Dubey6261) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@amitdubey8071) 
 
 # 📊 GitHub Stats:
-<p align='center'><img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 ![](https://github-readme-stats.vercel.app/api?username=amitdubey6261&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=amitdubey6261&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitdubey6261&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
+<p align='center'><img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
