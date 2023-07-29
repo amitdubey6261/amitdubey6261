@@ -6,6 +6,6 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitdubey6261&theme=algolia" alt="amitdubey6261" /></p>
 
 #### Github Stats
-<img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<p align='center'><img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amitdubey6261&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
