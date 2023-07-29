@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amit Dubey</h1>
 <h3 align="center">A passionate Full Stack/GL developer from India</h3>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amitdubey6261&theme=tokyonight" alt="mystreak"/>
+
 - 🔭 I’m currently working on **Ludo**
 
 - 🌱 I’m currently learning **Machine Learning**
