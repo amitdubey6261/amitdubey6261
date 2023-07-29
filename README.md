@@ -16,3 +16,5 @@
 
 <p align='center'><img src="https://myreadme.vercel.app/api/embed/amitdubey6261?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" /></p>
 
+[![](https://visitcount.itsvg.in/api?id=amitdubey6261&icon=0&color=0)](https://visitcount.itsvg.in)
+
