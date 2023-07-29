@@ -3,10 +3,7 @@
 ## 🧙 About_Amit
 Hey there! 👋 I'm a Full Stack Creative Frontend Developer 🌐 with a passion for cutting-edge web technologies and real-time 3D game development 🕹️. With over 1 years of experience in the tech industry 🧙 , I've been busy crafting immersive experiences and pushing the boundaries of what's possible on the web 🛠️.
 
-What Drives Me
-My true passion lies in crafting real-time 3D games and building cutting-edge websites that blur the line between imagination and reality. The thrill of pushing the boundaries of technology and witnessing the magic of 3D graphics in a web browser drives me forward each day.
-
-Collaborate with Me
+## 🧙 Collaborting
 I'm actively seeking collaborative projects that delve into the realms of OpenGL and WebGL. If you're interested in exploring the potential of 3D technologies and web graphics, let's team up and create something extraordinary together! Open-source contributions, game jams, and any opportunity to learn and grow excite me beyond measure.
 
 
