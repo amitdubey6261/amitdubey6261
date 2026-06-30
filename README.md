@@ -2,6 +2,7 @@
 
 **Graphics Engineer · Full Stack · Low-Level Systems**
 
+![Tools](https://media.licdn.com/dms/image/v2/D5616AQGuq-lcUakpZQ/profile-displaybackgroundimage-shrink_350_1400/B56Z77b5jQGUAY-/0/1782334855730?e=1784160000&v=beta&t=3XvpUaqPhrF-U3PeU_kaiqTAVLOBQ131Z7Ma7uSR48Q)
 ---
 
 I'm an engineer driven by curiosity for how computers work. Currently exploring graphics and rendering pipelines after starting my career as a graphics engineer building photorealistic web rendering. I'm on a journey to understand computer systems from first principles.
